@@ -23,3 +23,9 @@
 
 This project reflects adaptability and growth in the marketing field, highlighting the ability to translate data insights into impactful marketing strategies.
 
+
+### Important links
+- Project Detail
+- SQL Code
+- Table Public
+- Documentation
