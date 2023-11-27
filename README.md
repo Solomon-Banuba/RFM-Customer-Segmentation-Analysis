@@ -4,8 +4,9 @@
  In this continuous learning project at ReDI School, I explored the RFM model to segment customers based on behavior characteristics, shifting away from traditional demographic factors. The goal was to gain a deeper understanding of customer behavior and enhance my skills beyond conventional clustering methods. 
 
 ### 2. Purpose:
+- RFM Model
 - Focus on understanding and segmenting customers based on recency, frequency, and monetary values.
-- Emphasis on expanding skills beyond demographic factors, contributing to a more holistic approach to customer segmentation.
+
 
 
 ### 3. Context:
