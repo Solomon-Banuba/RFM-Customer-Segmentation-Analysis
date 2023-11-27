@@ -1,0 +1,93 @@
+CUSTOMERNAME,rfm_recency,rfm_frequency,rfm_monetory,rfm_score,rfm_segment
+CAF Imports,1,1,1,111,lost_customers
+Auto Assoc. & Cie.,1,1,1,111,lost_customers
+West Coast Collectables Co.,1,1,1,111,lost_customers
+"Iberia Gift Imports, Corp.",1,1,1,111,lost_customers
+"Double Decker Gift Stores, Ltd",1,1,1,111,lost_customers
+Cambridge Collectables Co.,1,1,1,111,lost_customers
+"Bavarian Collectables Imports, Co.",1,1,1,111,lost_customers
+"Men 'R' US Retailers, Ltd.",1,1,1,111,lost_customers
+"Clover Collections, Co.",1,1,1,111,lost_customers
+Signal Collectibles Ltd.,1,1,1,111,lost_customers
+Online Mini Collectables,1,1,1,111,lost_customers
+Super Scale Inc.,1,1,2,112,lost_customers
+Diecast Collectables,1,1,2,112,lost_customers
+Microscale Inc.,2,1,1,211,lost_customers
+Atelier graphique,2,1,1,211,lost_customers
+"Volvo Model Replicas, Co",2,1,2,212,lost_customers
+Royale Belge,3,1,1,311,new_customers
+Boards & Toys Co.,3,1,1,311,new_customers
+"Australian Gift Network, Co",3,1,1,311,new_customers
+Mini Auto Werke,3,1,1,311,new_customers
+Auto-Moto Classics Inc.,3,1,1,311,new_customers
+Gift Ideas Corp.,3,1,1,311,new_customers
+Mini Caravy,4,1,2,412,new_customers
+Daedalus Designs Imports,1,2,1,121,lost_customers
+Osaka Souveniers Co.,1,2,1,121,lost_customers
+"Norway Gifts By Mail, Co.",1,2,2,122,lost_customers
+Collectable Mini Designs Co.,1,2,3,123,lost_customers
+"Classic Gift Ideas, Inc",2,2,1,221,potential_churners
+Classic Legends Inc.,2,2,2,222,potential_churners
+Enaco Distributors,2,2,2,222,potential_churners
+Mini Wheels Co.,2,2,2,222,potential_churners
+Motor Mint Distributors Inc.,2,2,2,222,potential_churners
+Canadian Gift Exchange Network,2,2,2,222,potential_churners
+"Blauer See Auto, Co.",2,2,2,222,potential_churners
+"La Corne D'abondance, Co.",2,2,3,223,potential_churners
+Vitachrome Inc.,2,2,3,223,potential_churners
+Marseille Mini Autos,3,2,2,322,active_customers
+Collectables For Less Inc.,3,2,2,322,active_customers
+FunGiftIdeas.com,3,2,3,323,active_customers
+"Australian Collectables, Ltd",4,2,1,421,active_customers
+Quebec Home Shopping Network,4,2,2,422,active_customers
+Petit Auto,4,2,2,422,active_customers
+Lyon Souveniers,4,2,2,422,active_customers
+Tekni Collectables Inc.,4,2,2,422,active_customers
+Alpha Cognac,4,2,2,422,active_customers
+Gift Depot Inc.,4,2,3,423,active_customers
+"Royal Canadian Collectables, Ltd.",1,3,2,132,lost_customers
+Herkku Gifts,1,3,3,133,slipping_away_slowly
+Amica Models & Co.,1,3,3,133,slipping_away_slowly
+"Vida Sport, Ltd",1,3,3,133,slipping_away_slowly
+Marta's Replicas Co.,1,3,3,133,slipping_away_slowly
+Mini Classics,2,3,2,232,potential_churners
+giftsbymail.co.uk,2,3,2,232,potential_churners
+Heintze Collectables,2,3,3,233,potential_churners
+"Toms Spezialitten, Ltd",2,3,3,233,potential_churners
+Baane Mini Imports,2,3,3,233,potential_churners
+Cruz & Sons Co.,2,3,3,233,potential_churners
+"Corrida Auto Replicas, Ltd",2,3,4,234,active_customers
+Signal Gift Stores,3,3,2,332,active_customers
+"Stylish Desk Decors, Co.",3,3,3,333,active_customers
+Suominen Souveniers,3,3,3,333,active_customers
+Toys4GrownUps.com,3,3,3,333,active_customers
+"Toys of Finland, Co.",3,3,3,333,active_customers
+"Oulu Toy Supplies, Inc.",3,3,3,333,active_customers
+Gifts4AllAges.com,4,3,2,432,active_customers
+"UK Collectables, Ltd.",4,3,3,433,active_customers
+"Tokyo Collectables, Ltd",4,3,3,433,active_customers
+Auto Canal Petit,4,3,3,433,active_customers
+Diecast Classics Inc.,4,3,4,434,active_customers
+"Saveley & Henriot, Co.",1,4,4,144,slipping_away_slowly
+"AV Stores, Co.",2,4,4,244,slipping_away_slowly
+Rovelli Gifts,2,4,4,244,slipping_away_slowly
+Online Diecast Creations Co.,2,4,4,244,slipping_away_slowly
+Land of Toys Inc.,2,4,4,244,slipping_away_slowly
+Mini Creations Ltd.,3,4,3,343,loyal_customers
+"Dragon Souveniers, Ltd.",3,4,4,344,loyal_customers
+Scandinavian Gift Ideas,3,4,4,344,loyal_customers
+Corporate Gift Ideas Co.,3,4,4,344,loyal_customers
+Muscle Machine Inc,3,4,4,344,loyal_customers
+"Australian Collectors, Co.",3,4,4,344,loyal_customers
+Technics Stores Inc.,3,4,4,344,loyal_customers
+"Anna's Decorations, Ltd",3,4,4,344,loyal_customers
+Handji Gifts& Co,4,4,3,443,loyal_customers
+La Rochelle Gifts,4,4,4,444,loyal_customers
+L'ordine Souveniers,4,4,4,444,loyal_customers
+Salzburg Collectables,4,4,4,444,loyal_customers
+Danish Wholesale Imports,4,4,4,444,loyal_customers
+The Sharp Gifts Warehouse,4,4,4,444,loyal_customers
+Souveniers And Things Co.,4,4,4,444,loyal_customers
+Mini Gifts Distributors Ltd.,4,4,4,444,loyal_customers
+Reims Collectables,4,4,4,444,loyal_customers
+Euro Shopping Channel,4,4,4,444,loyal_customers
