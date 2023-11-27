@@ -1,7 +1,7 @@
 # RFM-Customer-Segmentation-Analysis
 
 ### 1. Project Overview:
-- In this continuous learning project at ReDI School, I explored the RFM model to segment customers based on behavior characteristics, shifting away from traditional demographic factors. The goal was to gain a deeper understanding of customer behavior and enhance my skills beyond conventional clustering methods. 
+ In this continuous learning project at ReDI School, I explored the RFM model to segment customers based on behavior characteristics, shifting away from traditional demographic factors. The goal was to gain a deeper understanding of customer behavior and enhance my skills beyond conventional clustering methods. 
 
 ### 2. Purpose:
 - Focus on understanding and segmenting customers based on recency, frequency, and monetary values.
