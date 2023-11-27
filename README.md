@@ -27,6 +27,6 @@ This project reflects adaptability and growth in the marketing field, highlighti
 
 ### Important links
 - [Project Detail](https://github.com/Solomon-Banuba/RFM-Customer-Segmentation-Analysis/blob/main/RFM%20Analysis__/Project.pdf)
-- SQL Code
+- [SQL Code](https://github.com/Solomon-Banuba/RFM-Customer-Segmentation-Analysis/blob/main/SQL_Code.sql)
 - [Table Public](https://public.tableau.com/views/RFMAnalysis_17010788110110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-- Documentation
+
