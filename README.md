@@ -28,5 +28,5 @@ This project reflects adaptability and growth in the marketing field, highlighti
 ### Important links
 - Project Detail
 - SQL Code
-- Table Public
+- [Table Public](https://public.tableau.com/views/RFMAnalysis_17010788110110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 - Documentation
